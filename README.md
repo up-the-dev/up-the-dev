@@ -7,7 +7,7 @@
   ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://www.linkedin.com/in/umeshpawar08/"><img src="https://img.icons8.com/color/2x/linkedin-circled.png" width="50" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/umeshpawar._/"><img src="https://img.icons8.com/color/2x/instagram-new.png" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/umeshpawar._/"><img src="https://img.icons8.com/color/2x/instagram-new.png" width="50" alt="Instagram"/></a>
 </p>
 	
 <br />
