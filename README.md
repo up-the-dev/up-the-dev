@@ -22,10 +22,7 @@
 </p>
 	 
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=up-the-dev)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=up-the-dev) 
 
-##
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/up-the-dev/count.svg" />
-</p>
+
