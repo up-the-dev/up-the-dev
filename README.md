@@ -3,10 +3,10 @@
 </div>
 
 
-
+<h3>Let's Connect <img src="https://img.icons8.com/sf-ultralight-filled/2x/espresso-cup.png" /></h3>
 	
 <p align="center">
-	<h3>Let's Connect <img src="https://icons8.com/icon/31393/espresso-cup" /></h3>
+	
 	<a href="https://www.linkedin.com/in/umeshpawar08/"><img src="https://img.icons8.com/color/2x/linkedin-circled.png" width="50" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/umeshpawar._/"><img src="https://img.icons8.com/color/2x/instagram-new.png" width="50" alt="Instagram"/></a>
 </p>
