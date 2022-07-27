@@ -1,16 +1,16 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ,<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
-<div align="center">
 
+
+<div align="center">
 
 ![](https://ram123-debug-visitor-badge.glitch.me/badge?page_id=ram123-debug.ram123-debug)
 
   ### Let's Connect :coffee:
 <p align="center">
-	
-	<a href="https://www.linkedin.com/in/umeshpawar08/"><img src="https://img.icons8.com/color/2x/linkedin-circled.png" width="50" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/umeshpawar._/"><img src="https://img.icons8.com/color/2x/instagram-new.png" width="50" alt="Instagram"/></a>
+	<a href="https://www.linkedin.com/in/ram-munde-8901571b9/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/ram.m2002/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 	
 <br />
