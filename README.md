@@ -22,5 +22,6 @@
 <br/>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=up-the-dev) 
+<img src="https://badges.pufler.dev/visits/up-the-dev/up-the-dev?color=black&logo=github" />
 
 
