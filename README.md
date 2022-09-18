@@ -2,11 +2,10 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ,<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-<h1 align="center"> 👨‍💻 Full Stack Web developer</h1>
+<h3 align="center"> 👨‍💻 Full Stack Web developer</h3>
 
 <div align="center">
 
-![](https://ram123-debug-visitor-badge.glitch.me/badge?page_id=ram123-debug.ram123-debug)
 
   ### Let's Connect :coffee:
 <p align="center">
