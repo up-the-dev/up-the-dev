@@ -4,9 +4,8 @@
 
   ### Let's Connect :coffee:
 <p align="center">
-	<a href="https://www.linkedin.com/in/umeshpawar08/"><img src="https://img.icons8.com/color/2x/linkedin-circled.png" width="50" alt="LinkedIn"/></a>
-	<a href="https://www.linkedin.com/in/umeshpawar08/"><img src="https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umeshpawar08/"  alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/umeshpawar._/"><img src="https://img.icons8.com/color/2x/instagram-new.png" width="50" alt="Instagram"/></a>
+	<a href="https://www.linkedin.com/in/umeshpawar08/"><img src="https://img.shields.io/badge/-umeshpawar08-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umeshpawar08/"  alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/umeshpawar._/"><img src="https://img.shields.io/badge/-@maddhruv-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/umeshpawar._" alt="Instagram"/></a>
 </p>
 	
 <br />
