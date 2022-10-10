@@ -1,4 +1,4 @@
-<img src='/assets/Tosca And Black Geometric Technology LinkedIn Banner (2).mp4' alt="gig"></img>
+<img src='assets/banner.gif' alt="gig"></img>
 <div align="center" style="margin-top=12px">
 
 
