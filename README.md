@@ -1,4 +1,4 @@
-<img src='assets/banner.gif' alt="gig"></img>
+<img src='assets/bannerimg.png' alt="profile-banner"></img>
 <div align="center" style="margin-top=12px">
 
 
