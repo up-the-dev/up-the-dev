@@ -1,9 +1,4 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 I'm Umesh <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
-
-<h3 align="center">👨‍💻Full Stack Web developer</h3>
-
+<img src='assets/Tosca And Black Geometric Technology LinkedIn Banner (2).mp4' alt="gig"></img>
 <div align="center" style="margin-top=12px">
 
 
