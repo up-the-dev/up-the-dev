@@ -5,7 +5,7 @@
   ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://www.linkedin.com/in/umeshpawar08/"><img src="https://img.shields.io/badge/-umeshpawar08-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umeshpawar08/"  alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/umeshpawar._/"><img src="https://img.shields.io/badge/-@maddhruv-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/umeshpawar._" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/umeshpawar._/"><img src="https://img.shields.io/badge/-@umeshpawar-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/umeshpawar._" alt="Instagram"/></a>
 </p>
 	
 <br />
