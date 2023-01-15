@@ -20,7 +20,5 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=up-the-dev) 
  
- <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=up-the-dev&label=Profile%20Views&pretty=false" />
-</a>
+
 
