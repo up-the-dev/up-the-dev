@@ -19,10 +19,7 @@
 <br/>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=up-the-dev) 
-<div>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=up-the-dev&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=up-the-dev&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
-</div>
+ 
  <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=up-the-dev&label=Profile%20Views&pretty=false" />
 </a>
